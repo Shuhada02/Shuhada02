@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuhada02" alt="shuhada02" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sylvie_park" target="blank"><img src="https://img.shields.io/twitter/follow/sylvie_park?logo=twitter&style=for-the-badge" alt="sylvie_park" /></a> </p>
-
 - 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **adaashuhada02@gmail.com**
